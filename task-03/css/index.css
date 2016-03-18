@@ -13,7 +13,7 @@ a{}
 .left{float: left;width:200px;}
 .left .logo{ cursor: pointer;}
 .left .team-img{ display:inline-block;width: 80px; height: 80px; float: left;}
-.left .team-name{display: inline-block; float: left; font-size: 12px; text-align: left;padding-left:10px;}
+.left .team-name{display: inline-block; float: left; font-size: 14px; text-align: left;padding-left:10px;}
 
 .right{width:120px; float: right;padding-bottom: 0;}
 .right .team-member{ display: block;width:80px; height: 80px;margin-bottom: 20px; cursor: pointer;}
